@@ -27,5 +27,3 @@ Objectives of the Project
 3. **Memory Management:** Manage buffers and memory effectively to store and transmit message data without memory leaks.
 4. **Modular Code:** Write efficient and reusable code that adheres to strict coding norms, focusing on clarity and performance.
 5. **Handling Different Message Sources:** Implement the ability to read messages from different sources, such as stdin and a network connection, using signals.
-6. **Norm Compliance:** Develop code that follows the strict coding standards of the 42 curriculum, ensuring maintainability and readability.
-7. **Bonus - Multi-client Communication:** Extend the functionality of the original MiniTalk to allow communication with multiple clients simultaneously, supporting parallel message exchange. 
